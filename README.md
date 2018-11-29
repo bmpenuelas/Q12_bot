@@ -1,5 +1,5 @@
-# Q12 bot :robot:
-## A small help for the Q12 contest. Automatically identifies the questions and guesses the most likely answer.
+# Q12 Trivia bot :robot:
+## A small help for the Q12 Trivia contest. Automatically identifies the questions and guesses the most likely answer.
 
 After all my friends told me to play Q12 I surrendered and played it too.
 <br>
